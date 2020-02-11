@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8273b8b-1ae3-4cb4-9c30-5a61fd91778e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wpn1Zlt9Efl3KySBdC01dmVsby" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Finmax\IdeaProjects\first_project\src\main\resources\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RegistrationFX">
+    <configuration name="DepositFX" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="first_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="depositFinmaxFX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="depositFinmaxFX" />
+      <option name="MAIN_CLASS_NAME" value="depositFinmaxFX.DepositFX" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinmaxBoReg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="first_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.promo.finmaxfx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.promo.finmaxfx" />
+      <option name="MAIN_CLASS_NAME" value="com.promo.finmaxfx.FinmaxBoReg" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="first_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.promo.finmaxfx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.promo.finmaxfx" />
+      <option name="MAIN_CLASS_NAME" value="com.promo.finmaxfx.FirstTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="first_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.promo.finmaxfx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.promo.finmaxfx" />
+      <option name="MAIN_CLASS_NAME" value="com.promo.finmaxfx.RegisterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTradeOfficer" type="JUnit" factoryName="JUnit">
+      <module name="first_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.promo.finmaxfx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.promo.finmaxfx" />
+      <option name="MAIN_CLASS_NAME" value="com.promo.finmaxfx.RegisterTradeOfficer" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationFX" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="first_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="signUp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="signUp" />
+      <option name="MAIN_CLASS_NAME" value="signUp.RegistrationFX" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RegistrationFX" />
+        <item itemvalue="JUnit.RegisterTest" />
+        <item itemvalue="JUnit.FinmaxBoReg" />
+        <item itemvalue="JUnit.DepositFX" />
+        <item itemvalue="JUnit.FirstTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8273b8b-1ae3-4cb4-9c30-5a61fd91778e" name="Default Changelist" comment="" />
+      <created>1579855190195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579855190195</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="184" key="#Project_Structure" timestamp="1580384882520">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1580384882520" />
+    <state x="557" y="192" key="#RegisterTest" timestamp="1580469218099">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="557" y="192" key="#RegisterTest/0.0.1920.1050@0.0.1920.1050" timestamp="1580469218099" />
+    <state x="557" y="192" key="#RegisterTradeOfficer" timestamp="1580469297802">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="557" y="192" key="#RegisterTradeOfficer/0.0.1920.1050@0.0.1920.1050" timestamp="1580469297802" />
+    <state x="557" y="192" key="#RegisterTradeOfficer_(1)" timestamp="1580469272363">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="557" y="192" key="#RegisterTradeOfficer_(1)/0.0.1920.1050@0.0.1920.1050" timestamp="1580469272363" />
+    <state x="552" y="184" key="#XML" timestamp="1579855453357">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#XML/0.0.1920.1050@0.0.1920.1050" timestamp="1579855453357" />
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579880274593">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579880274593" />
+    <state x="92" y="92" width="1736" height="866" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580381274676">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1580381274676" />
+    <state x="693" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580385145607">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="693" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1580385145607" />
+    <state x="511" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581331816936">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="511" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581331816936" />
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580813336444">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1580813336444" />
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom" timestamp="1581436664095">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1581436664095" />
+    <state width="1877" height="283" key="GridCell.Tab.0.center" timestamp="1581436664095">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1581436664095" />
+    <state width="1877" height="283" key="GridCell.Tab.0.left" timestamp="1581436664094">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1581436664094" />
+    <state width="1877" height="283" key="GridCell.Tab.0.right" timestamp="1581436664095">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1581436664095" />
+    <state width="1877" height="351" key="GridCell.Tab.1.bottom" timestamp="1580915197497">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1580915197497" />
+    <state width="1877" height="351" key="GridCell.Tab.1.center" timestamp="1580915197496">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1580915197496" />
+    <state width="1877" height="351" key="GridCell.Tab.1.left" timestamp="1580915197496">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1580915197496" />
+    <state width="1877" height="351" key="GridCell.Tab.1.right" timestamp="1580915197497">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="351" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1580915197497" />
+    <state x="461" y="168" key="SettingsEditor" timestamp="1579858302751">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1579858302751" />
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1581411650114">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581411650114" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1580914661228">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1580914661228" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="first_project" type="b2602c69:ProjectViewProjectNode" />
+        <item name="first_project" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/firstproject$LoginBO.ic" NAME="LoginBO Coverage Results" MODIFIED="1580914679195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.promo.finmaxfx.*</FILTER>
+    </SUITE>
+  </component>
+</project>
