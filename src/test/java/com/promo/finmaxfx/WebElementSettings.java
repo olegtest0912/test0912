@@ -21,6 +21,6 @@ public class WebElementSettings {
     @After
     public void quit(){
         System.out.println("End test");
-       driver.quit();
+       // driver.quit();
     }
 }
