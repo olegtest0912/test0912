@@ -11,16 +11,18 @@ public class WebElementSettings {
     public WebDriverWait wait;
     @Before
     public void setUp(){
-        System.setProperty("webdriver.chrome.driver","src/main/resources/drivers/chromedriver79.exe");
+        System.setProperty("webdriver.chrome.driver","src/main/resources/drivers/chromedriver80.exe");
         driver = new ChromeDriver();
-        driver.manage().window().setSize(new Dimension(1920,1080));
+       // driver.manage().window().setSize(new Dimension(1920,1080));
         System.out.println("start test");
+
+
 
     }
 
     @After
     public void quit(){
         System.out.println("End test");
-       // driver.quit();
+        driver.quit();
     }
 }
