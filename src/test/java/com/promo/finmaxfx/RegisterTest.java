@@ -6,9 +6,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.Random;
 
-import static org.openqa.selenium.By.cssSelector;
-
-public class RegisterTest extends WebElementSettings {
+public class RegisterTest extends WebElementSettingsFX {
     @Test
     public void register(){
         driver.get("https://tradeofficer.online/index.php");

@@ -1,10 +1,10 @@
 package depositFinmaxFX;
 
-import com.promo.finmaxfx.WebElementSettings;
+import com.promo.finmaxfx.WebElementSettingsFX;
 import org.junit.Test;
 import org.openqa.selenium.support.PageFactory;
 
-public class DepositFXBatic extends WebElementSettings {
+public class DepositFXBatic extends WebElementSettingsFX {
 
     //paysystems
     String certus = "https://api.certus.finance/";

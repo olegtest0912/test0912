@@ -1,13 +1,10 @@
 package depositFinmaxFX;
 
-import com.promo.finmaxfx.WebElementSettings;
-import org.junit.Ignore;
+import com.promo.finmaxfx.WebElementSettingsFX;
 import org.junit.Test;
 import org.openqa.selenium.support.PageFactory;
 
-import java.io.IOException;
-
-public class DepositFXRussia extends WebElementSettings {
+public class DepositFXRussia extends WebElementSettingsFX {
     // user data Russia
     String login = "olegtest0912@gmail.com";
     String password = "Oleg12345";

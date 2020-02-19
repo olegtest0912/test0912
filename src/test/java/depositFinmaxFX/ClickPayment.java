@@ -57,16 +57,6 @@ public class ClickPayment {
         driver.findElement(By.cssSelector("button[class=\"btn w-100 custom-btn btn-success\"]")).click();
     }
     public void checkPaysystem(String payLink)  {
-        wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("div")));
-      //  driver.findElement(form);
-        driver.findElements(By.cssSelector("div"));
-
-        String curlink = driver.getCurrentUrl();
-
-        System.out.println(curlink);
-       // Assert.assertNotEquals(curlink ,depositLink);
-        boolean isContains = curlink.contains(payLink);
-        Assert.assertTrue(isContains);
-
+      wait.until(ExpectedConditions.urlContains(payLink));
     }
 }

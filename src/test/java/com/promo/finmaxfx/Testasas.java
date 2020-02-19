@@ -2,7 +2,7 @@ package com.promo.finmaxfx;
 
 import org.junit.Test;
 
-public class Testasas extends WebElementSettings {
+public class Testasas extends WebElementSettingsFX {
     @Test
     public void testasas(){
         driver.get("https://www.asas-group.org/research/");

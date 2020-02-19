@@ -1,13 +1,10 @@
 package depositFinmaxFX;
 
-import com.promo.finmaxfx.WebElementSettings;
-import org.junit.Ignore;
+import com.promo.finmaxfx.WebElementSettingsFX;
 import org.junit.Test;
 import org.openqa.selenium.support.PageFactory;
 
-import java.io.IOException;
-
-public class DepositFXOther extends WebElementSettings {
+public class DepositFXOther extends WebElementSettingsFX {
     //paysystems
     String certus = "https://api.certus.finance/";
     String accentpay = "https://zwmxm.playmeagame.com/";

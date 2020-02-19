@@ -1,15 +1,12 @@
 package signUp;
 
-import com.promo.finmaxfx.WebElementSettings;
-import org.junit.Assert;
+import com.promo.finmaxfx.WebElementSettingsFX;
 import org.junit.Test;
-import org.openqa.selenium.By;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.ExpectedConditions;
 
 import java.util.Random;
 
-public class RegistrationFX extends WebElementSettings {
+public class RegistrationFX extends WebElementSettingsFX {
     @Test
     public void registrationFX(){
         //---------- mainpage

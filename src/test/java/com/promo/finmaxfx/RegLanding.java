@@ -1,6 +1,5 @@
 package com.promo.finmaxfx;
 
-import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -9,7 +8,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.Random;
 
-public class RegLanding extends WebElementSettings {
+public class RegLanding extends WebElementSettingsFX {
 
     @Test
     public void test(){
